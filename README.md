@@ -1,14 +1,34 @@
 # Intro-to-Machine-Learning
 
-## This whole exercise was completed by 4 members in a team. These members include:
+# Machine Learning & Data Analysis Exercises
 
-### 1. Kush Patel (ksp946)
+This repository contains a collection of Jupyter notebooks exploring various topics in machine learning and data science. The exercises include unsupervised learning, association rule mining, deep learning, and visual storytelling, offering a hands-on way to understand key concepts and techniques.
 
-### 2. Soham Siddhant Bidyadhar (sb67347)
+## Topics Covered
 
-### 3. Viswanadhuni Sankeerth (vps386)
+- **K-Means Clustering & PCA**: Dimensionality reduction and unsupervised pattern discovery
+- **Association Rule Mining**: Finding interesting relationships in transactional data using the Apriori algorithm
+- **Visual Storytelling**: Data-driven insights communicated through thoughtful visualizations
+- **Image Classification**: Building a simple neural network using PyTorch for digit classification (MNIST)
 
-### 4. Gaurav Shukla (gs34327)
+## Libraries Used
+
+- `numpy`, `pandas` – Data manipulation
+- `matplotlib`, `seaborn`, `plotly` – Data visualization
+- `sklearn` – Machine learning algorithms (KMeans, PCA, train/test splits)
+- `mlxtend` – Association rule mining (Apriori, rules)
+- `torch`, `torchvision` – Deep learning for image classification
+- `PIL`, `cv2` – Image preprocessing and handling
+
+## How to Use
+
+1. Clone the repository
+2. Open the notebooks in Jupyter or VS Code
+3. Install the dependencies via pip if needed:
+
+```bash
+pip install numpy pandas matplotlib seaborn plotly scikit-learn mlxtend torch torchvision opencv-python
+
 
 
 #### Here is the path to final take home problems file: 
